@@ -1,0 +1,44 @@
+# --- Systeme ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editeurs ---
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# --- Java / Maven / Gradle ---
+target/
+build/
+bin/
+out/
+*.class
+.classpath
+.project
+.settings/
+.gradle/
+
+# --- Node ---
+node_modules/
+dist/
+.next/
+*.log
+.env
+.env.local
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- LaTeX ---
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.out
